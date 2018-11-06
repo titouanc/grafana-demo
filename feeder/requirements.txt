@@ -1,0 +1,2 @@
+influxdb
+git+https://github.com/titouanc/pyirclogs.git
